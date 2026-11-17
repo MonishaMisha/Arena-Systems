@@ -1,0 +1,20 @@
+{
+    "name": "PortfolioShowcase.Editor",
+    "rootNamespace": "PortfolioShowcase.EditorTools",
+    "references": [
+        "PortfolioShowcase.Core",
+        "PortfolioShowcase.Runtime",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

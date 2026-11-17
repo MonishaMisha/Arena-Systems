@@ -1,0 +1,25 @@
+{
+    "name": "PortfolioShowcase.Tests.EditMode",
+    "rootNamespace": "PortfolioShowcase.Tests.EditMode",
+    "references": [
+        "PortfolioShowcase.Core",
+        "PortfolioShowcase.Runtime",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
